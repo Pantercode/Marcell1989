@@ -1,0 +1,65 @@
+<!DOCTYPEhtml >
+< html  lang =" pt-br " >
+< cabeça >
+    < meta  charset =" UTF-8 " >
+    < meta  http-equiv = " Conteúdo compatível com X-UA " =" IE=edge " >
+    < meta  name =" viewport " content =" largura=largura do dispositivo, escala inicial=1.0 " >
+    < title > Tela de Login </ title >
+    < link  rel =" folha de estilo " href =" style.css " >
+    < link  rel =" folha de estilo " href =" https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css " >
+</ cabeça >
+< corpo >
+    < classe principal  =" contêiner " >
+        < h2 > Entrar </ h2 >
+        < ação do formulário  ="" >
+            < div  class =" campo de entrada " >
+                < tipo de entrada  = " texto " nome = nome de usuário " id = nome de usuário "
+                    placeholder =" Digite seu nome de usuário " >
+                < div  class =" underline " > </ div >
+            </ div >
+            < div  class =" campo de entrada " >
+                < tipo de entrada  = " senha " nome = senha " id = senha "
+                    placeholder =" Digite sua senha " >
+                < div  class =" underline " > </ div >
+            </ div >
+
+            < tipo de entrada  =" enviar " valor =" Continuar " >
+        </ formulário >
+
+        < classe div  =" rodapé " >
+            < span > Ou Conecte-se com as Redes Sociais </ span >
+            < div  class =" campos sociais " >
+                < div  class =" twitter de campo social " >
+                    <a href="#"> _  _ _ _ _
+                       < i  class =" fab fa-twitter " > </ i >
+                        Entrar com o Twitter
+                    </a> _ _
+                </ div >
+                < div  class =" fecebook de campo social " >
+
+                    <a href="#"> _  _ _ _ _ 
+
+                        < i  class =" fab fa-facebook " > </ i >
+
+                        Entrar com o Facebook
+
+                        < script  src =" https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/js/all.min.js " > </ script >
+                    </a> _ _
+                </ div >
+            </ div >
+        </ div >
+    </ principal >
+</ corpo >
+</ html >
+© 2022 GitHub, Inc.
+Termos
+Privacidade
+Segurança
+Status
+Documentos
+Entre em contato com o GitHub
+Preços
+API
+Treinamento
+Blogue
+Cerca de
